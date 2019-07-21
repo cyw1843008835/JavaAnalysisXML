@@ -7,6 +7,11 @@ import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
 
 public class DomAnalysisXMl1 {
+	/**
+	 * DOM方式解析xml文件之获取元素节点
+	 * 
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
 		try {
