@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <students>
-	<student >
-		<name id="001" level="A">zhangsan</name>
+	<student id="001" level="A">
+		<name >zhangsan</name>
 		<age>45</age>
 		<sex>male</sex>
 	</student>
-	<student >
-		<name id="002" level="B">lisi</name>
+	<student id="002" level="B">
+		<name >lisi</name>
 		<age>33</age>
 		<sex>female</sex>
 	</student>
